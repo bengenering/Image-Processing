@@ -9,4 +9,3 @@ clear cam;
 webcam_gettingstarted
 b=img;
 imshow(b)
-clear cam;
