@@ -6,6 +6,5 @@ a=img;
 imshow(a)
 clear cam;
 
-webcam_gettingstarted
-b=img;
-imshow(b)
+c=rgb2gray(a);
+imshow(c)
