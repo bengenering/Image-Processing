@@ -23,3 +23,7 @@ bbox            = step(faceDetector, videoFrame);
 % Draw the returned bounding box around the detected face.
 videoFrame = insertShape(videoFrame, 'Rectangle', bbox);
 figure; imshow(videoFrame); title('Detected face');
+
+% Convert the first box into a list of 4 points
+% This is needed to be able to visualize the rotation of the object.
+bboxPoints = bbox2points(bbox);
