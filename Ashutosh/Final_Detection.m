@@ -5,7 +5,7 @@ faceDetector = vision.CascadeObjectDetector();
 
 vidWriter = VideoWriter('frames.avi');
 open(vidWriter);
-for index = 1:200
+for index = 1:1
     % Acquire frame for processing
     img = snapshot(webcam);
     
