@@ -9,7 +9,7 @@ FDetect = vision.CascadeObjectDetector;
 vidDevice = imaq.VideoDevice('winvideo', 1, 'YUY2_640x480','ROI', [1 1 640 480],'ReturnedColorSpace', 'rgb');
 vidInfo = imaqhwinfo(vidDevice);
 nFrame = 0
-while(nFrame<20)
+while(nFrame<2)
 rgbFrame = step(vidDevice); % Acquire single frame
 rgbFrame = flipdim(rgbFrame,2);
 %Returns Bounding Box values based on number of objects
