@@ -1,0 +1,17 @@
+C:\0filio\apurva\faCE\face_recognition\face_recognition\bin\Debug\face_recognition.exe.config
+C:\0filio\apurva\faCE\face_recognition\face_recognition\bin\Debug\face_recognition.exe
+C:\0filio\apurva\faCE\face_recognition\face_recognition\bin\Debug\face_recognition.pdb
+C:\0filio\apurva\faCE\face_recognition\face_recognition\bin\Debug\Emgu.CV.dll
+C:\0filio\apurva\faCE\face_recognition\face_recognition\bin\Debug\Emgu.CV.UI.dll
+C:\0filio\apurva\faCE\face_recognition\face_recognition\bin\Debug\Emgu.Util.dll
+C:\0filio\apurva\faCE\face_recognition\face_recognition\bin\Debug\Emgu.CV.xml
+C:\0filio\apurva\faCE\face_recognition\face_recognition\bin\Debug\Emgu.CV.UI.xml
+C:\0filio\apurva\faCE\face_recognition\face_recognition\bin\Debug\Emgu.Util.xml
+C:\0filio\apurva\faCE\face_recognition\face_recognition\obj\Debug\face_recognition.csprojResolveAssemblyReference.cache
+C:\0filio\apurva\faCE\face_recognition\face_recognition\obj\Debug\face_recognition.Form1.resources
+C:\0filio\apurva\faCE\face_recognition\face_recognition\obj\Debug\face_recognition.Properties.Resources.resources
+C:\0filio\apurva\faCE\face_recognition\face_recognition\obj\Debug\face_recognition.csproj.GenerateResource.cache
+C:\0filio\apurva\faCE\face_recognition\face_recognition\obj\Debug\face_recognition.csproj.CoreCompileInputs.cache
+C:\0filio\apurva\faCE\face_recognition\face_recognition\obj\Debug\face_recognition.csproj.CopyComplete
+C:\0filio\apurva\faCE\face_recognition\face_recognition\obj\Debug\face_recognition.exe
+C:\0filio\apurva\faCE\face_recognition\face_recognition\obj\Debug\face_recognition.pdb
