@@ -15,3 +15,19 @@ C:\0filio\apurva\faCE\face_recognition\face_recognition\obj\Debug\face_recogniti
 C:\0filio\apurva\faCE\face_recognition\face_recognition\obj\Debug\face_recognition.csproj.CopyComplete
 C:\0filio\apurva\faCE\face_recognition\face_recognition\obj\Debug\face_recognition.exe
 C:\0filio\apurva\faCE\face_recognition\face_recognition\obj\Debug\face_recognition.pdb
+C:\Users\apurva randeria\Documents\GitHub\Image-Processing\apurva\faCE\face_recognition\face_recognition\bin\Debug\face_recognition.exe.config
+C:\Users\apurva randeria\Documents\GitHub\Image-Processing\apurva\faCE\face_recognition\face_recognition\bin\Debug\face_recognition.exe
+C:\Users\apurva randeria\Documents\GitHub\Image-Processing\apurva\faCE\face_recognition\face_recognition\bin\Debug\face_recognition.pdb
+C:\Users\apurva randeria\Documents\GitHub\Image-Processing\apurva\faCE\face_recognition\face_recognition\bin\Debug\Emgu.CV.xml
+C:\Users\apurva randeria\Documents\GitHub\Image-Processing\apurva\faCE\face_recognition\face_recognition\bin\Debug\Emgu.CV.UI.xml
+C:\Users\apurva randeria\Documents\GitHub\Image-Processing\apurva\faCE\face_recognition\face_recognition\bin\Debug\Emgu.Util.xml
+C:\Users\apurva randeria\Documents\GitHub\Image-Processing\apurva\faCE\face_recognition\face_recognition\obj\Debug\face_recognition.csprojResolveAssemblyReference.cache
+C:\Users\apurva randeria\Documents\GitHub\Image-Processing\apurva\faCE\face_recognition\face_recognition\obj\Debug\face_recognition.Form1.resources
+C:\Users\apurva randeria\Documents\GitHub\Image-Processing\apurva\faCE\face_recognition\face_recognition\obj\Debug\face_recognition.Properties.Resources.resources
+C:\Users\apurva randeria\Documents\GitHub\Image-Processing\apurva\faCE\face_recognition\face_recognition\obj\Debug\face_recognition.StartScreen.resources
+C:\Users\apurva randeria\Documents\GitHub\Image-Processing\apurva\faCE\face_recognition\face_recognition\obj\Debug\face_recognition.csproj.GenerateResource.cache
+C:\Users\apurva randeria\Documents\GitHub\Image-Processing\apurva\faCE\face_recognition\face_recognition\obj\Debug\face_recognition.csproj.CoreCompileInputs.cache
+C:\Users\apurva randeria\Documents\GitHub\Image-Processing\apurva\faCE\face_recognition\face_recognition\obj\Debug\face_recognition.csproj.CopyComplete
+C:\Users\apurva randeria\Documents\GitHub\Image-Processing\apurva\faCE\face_recognition\face_recognition\obj\Debug\face_recognition.exe
+C:\Users\apurva randeria\Documents\GitHub\Image-Processing\apurva\faCE\face_recognition\face_recognition\obj\Debug\face_recognition.pdb
+C:\Users\apurva randeria\Documents\GitHub\Image-Processing\apurva\faCE\face_recognition\face_recognition\obj\Debug\face_recognition.Recognizer.resources
