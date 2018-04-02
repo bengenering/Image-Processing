@@ -1,0 +1,46 @@
+D:\flow\FacialRecognition\FacialRecognition\bin\Debug\FacialRecognition.exe
+D:\flow\FacialRecognition\FacialRecognition\bin\Debug\FacialRecognition.pdb
+D:\flow\FacialRecognition\FacialRecognition\bin\Debug\Emgu.CV.dll
+D:\flow\FacialRecognition\FacialRecognition\bin\Debug\Emgu.CV.UI.dll
+D:\flow\FacialRecognition\FacialRecognition\bin\Debug\Emgu.Util.dll
+D:\flow\FacialRecognition\FacialRecognition\bin\Debug\Emgu.CV.xml
+D:\flow\FacialRecognition\FacialRecognition\bin\Debug\Emgu.CV.UI.xml
+D:\flow\FacialRecognition\FacialRecognition\bin\Debug\Emgu.Util.xml
+D:\flow\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.csprojResolveAssemblyReference.cache
+D:\flow\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.Form1.resources
+D:\flow\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.Properties.Resources.resources
+D:\flow\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.csproj.GenerateResource.Cache
+D:\flow\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.exe
+D:\flow\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.pdb
+D:\flow\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.StartScreen.resources
+D:\flow\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.Recognizer.resources
+D:\FacialRecognition (1)\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.exe
+D:\FacialRecognition (1)\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.pdb
+D:\FacialRecognition (1)\FacialRecognition\FacialRecognition\bin\Debug\FacialRecognition.exe
+D:\FacialRecognition (1)\FacialRecognition\FacialRecognition\bin\Debug\FacialRecognition.pdb
+D:\FacialRecognition (1)\FacialRecognition\FacialRecognition\bin\Debug\Emgu.CV.dll
+D:\FacialRecognition (1)\FacialRecognition\FacialRecognition\bin\Debug\Emgu.CV.UI.dll
+D:\FacialRecognition (1)\FacialRecognition\FacialRecognition\bin\Debug\Emgu.Util.dll
+D:\FacialRecognition (1)\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.Form1.resources
+D:\FacialRecognition (1)\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.Properties.Resources.resources
+D:\FacialRecognition (1)\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.Recognizer.resources
+D:\FacialRecognition (1)\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.StartScreen.resources
+D:\FacialRecognition (1)\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.csproj.GenerateResource.Cache
+C:\0filio\FacialRecognition\FacialRecognition\bin\Debug\FacialRecognition.exe
+C:\0filio\FacialRecognition\FacialRecognition\bin\Debug\FacialRecognition.pdb
+C:\0filio\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.csprojResolveAssemblyReference.cache
+C:\0filio\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.Form1.resources
+C:\0filio\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.Properties.Resources.resources
+C:\0filio\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.Recognizer.resources
+C:\0filio\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.StartScreen.resources
+C:\0filio\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.csproj.GenerateResource.cache
+C:\0filio\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.csproj.CoreCompileInputs.cache
+C:\0filio\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.csproj.CopyComplete
+C:\0filio\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.exe
+C:\0filio\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.pdb
+C:\0filio\FacialRecognition\FacialRecognition\bin\Debug\FacialRecognition.exe.manifest
+C:\0filio\FacialRecognition\FacialRecognition\bin\Debug\FacialRecognition.application
+C:\0filio\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.exe.manifest
+C:\0filio\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.application
+C:\0filio\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.TrustInfo.xml
+C:\0filio\FacialRecognition\FacialRecognition\bin\Debug\FacialRecognition.xml
